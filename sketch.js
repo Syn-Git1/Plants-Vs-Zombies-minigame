@@ -1,16 +1,3 @@
-/* program header
-Program Name: Plants vs Zombies (remake)
-Known bug list: none
-Description: similar to plants vs zombies, place plants in the garden to protect yourself from zombies
-References: p5js.org
-Self-assessment: I beleive this program evaluates to a level 4+ because it meets all of the level 3 criteria and exceeding them by:
-- Polishing the code by keeping it well organised by using objects and replacing repetitive blocks of code using classes to create a template for objects 
-- Music,images, font all fit the same theme
-- Difficulty increases with higer rate of zombies as you defeat more of them
-- Using 4 sprite sheets for peashooter attack and idle animations and zombie walking and attacking animation
-- Elements of randomness with zombie placement (placed on a random grid row) and ability to replay/restart the game
-- Implementing extra features such as "grid snapping" for placing plants
-*/
 //global variables
 let temp;
 let plant=[]; //array for placing class
